@@ -1,0 +1,2 @@
+URL API: https://serverless.clouderizer.com/function/unsmsm-pronosticodecovid-19/predict
+URL de la aplicación: https://serverless.clouderizer.com/function/unsmsm-pronosticodecovid-19
